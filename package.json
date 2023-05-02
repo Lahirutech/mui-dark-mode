@@ -21,10 +21,10 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "18.16.3",
-    "@types/react": "17.0.58",
-    "eslint": "8.39.0",
-    "eslint-config-next": "13.3.4",
-    "typescript": "5.0.4"
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
   }
 }
